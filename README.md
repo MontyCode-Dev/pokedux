@@ -1,0 +1,2 @@
+# pokedux
+Aprende paso a paso cada uno de los conceptos claves utilizando PokeApi para listar todos tus pokemons en tarjetas y añade la funcionalidad de favoritos para que puedas identificar fácilmente a tus preferidos. A través de las principales diferencias entre Redux y Context, lograrás identificar la mejor opción para implementar en cada situación. Crea tu setup inicial y comienza esta aventura para ser un maestro en React y Redux.
